@@ -1,0 +1,9 @@
+{
+  "id": "girl_skins",
+  "title": {
+    "translate": "brand.gui.skin_packs"
+  },
+  "indexUrl": "https://raw.githubusercontent.com/zeydanpelajarsejarah-coder/Girl-Skin/refs/heads/main/skin_packs.json",
+  "targetDirectoryName": "skin_packs",
+  "requiresResourceReload": true
+}
